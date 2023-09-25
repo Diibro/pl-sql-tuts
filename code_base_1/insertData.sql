@@ -1,0 +1,10 @@
+insert into employees values (1, 'Louis', 'Vuiton', 4500.25);
+insert into employees values (2, 'Anne', 'Franck', 3750.75);
+insert into employees values (3, 'Bruce', 'Wayne', 6000.57);
+insert into employees values (4, 'Eric', 'Tony', 2456.87);
+insert into employees values (5, 'Lionel', 'Manzi', 7500.25);
+insert into employees values (6, 'Denise', 'Cyuzuzo', 1750.75);
+insert into employees values (7, 'Jeanne', 'Kaliza', 4000.57);
+insert into employees values (8, 'Blaise', 'Mucyo', 5456.27);
+insert into employees values (9, 'Arsene', 'Butera', 6046.35);
+insert into employees values (10, 'Jordan', 'Karangwa', 2456.87);

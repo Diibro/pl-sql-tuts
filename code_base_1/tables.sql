@@ -1,0 +1,1 @@
+create table employees (emp_code int primary key, emp_first_name varchar(50), emp_last_name VARCHAR(50), salary float);
